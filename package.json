@@ -1,0 +1,15 @@
+{
+  "name": "my-html5-boilerplate",
+  "version": "0.0.1",
+  "description": "Just a (nother) boilerplate for a landing page.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpluta/my-html5-boilerplate.git"
+  },
+  "author": "GP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gpluta/my-html5-boilerplate/issues"
+  },
+  "homepage": "https://github.com/gpluta/my-html5-boilerplate#readme"
+}
